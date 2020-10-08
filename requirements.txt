@@ -1,0 +1,7 @@
+nltk==3.5
+numpy==1.19.2
+pytorch-transformers==1.1.0
+scipy==1.5.2
+semantic-text-similarity==1.0.3
+torch==1.6.0
+tqdm==4.50.0
