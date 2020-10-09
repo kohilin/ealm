@@ -4,7 +4,7 @@ The experimental scripts used in our paper:
 
 ```
 @inproceedings{kohita-etal-2020-ealm,
-    title = "Q-learning with Language Model for Unsupervised Edit-based Summarization",
+    title = "Q-learning with Language Model for Edit-based Unsupervised Summarization",
     author = "Ryosuke, Kohita and Akifumi, Wachi and Yang, Zhao and Ryuki Tachibana",
     booktitle = "EMNLP",
     year = "2020"
