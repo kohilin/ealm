@@ -1,6 +1,6 @@
 # EALM
 
-The experimental scripts used in our paper:
+The experimental scripts used in [our paper](https://arxiv.org/abs/2010.04379):
 
 ```
 @inproceedings{kohita-etal-2020-ealm,
